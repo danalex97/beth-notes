@@ -2,6 +2,7 @@
 
 - based on:    
  - *Blockchain for Social Impact - Stanford Business*
+ - *see each section in document for additional references*
 
 ### Agriculture
 
@@ -41,3 +42,36 @@ fraud reduction
 #### Case Studies
 - BanQu -  banking service for unbanked people good cost efficiency
 - AID:Tech - track aid distribution in order to tackle corruption
+
+### Energy
+
+- **goal:** tackle overhead and energy losses during transmission due to regulations
+- **challenges:**
+ - energy control hardware scarce for users
+ - consumers who can benefit from micro-grids and P2P live in areas dependent on old tech(e.g. SMS for payments)
+
+#### Case Studies
+- Grid Singularity - distributed energy utilities system by using a blockchain layer with support for micropayment channels, analysis, green certificates and smart grid managements
+- ME SOLshare - allow houses that use solar grids to produce and trade energy
+
+### Health
+
+- **goals:**
+  - reduce cost of health info exchange
+  - safe transport of medicine and vaccines
+  - dealing with counterfeit drugs
+- **challenges:**
+  - coordination across parties involved
+  - security and privacy issues
+  - many regulations
+
+#### Case Study
+ - Modum.io - track medicine transport via sensors, blockchain is used to ensure data originated from a particular untampered sensor
+
+## Other Use Cases
+  - **land rights**
+  - **financial inclusion**
+  - **philanthropy and aid**
+  - education
+  - human rights
+  - water and sanitation
