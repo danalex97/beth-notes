@@ -1,8 +1,8 @@
 ## Social Impact
 
 - based on:    
- - *Blockchain for Social Impact - Stanford Business*
- - *see each section in document for additional references*
+  - *Blockchain for Social Impact - Stanford Business*
+  - *see each section in document for additional references*
 
 ### Agriculture
 
