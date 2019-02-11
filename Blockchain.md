@@ -1,8 +1,8 @@
 ## Blockchain Introduction
 
 - based on:    
- - *Blockchain for Social Impact - Stanford Business*
- - [this video](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+  - *Blockchain for Social Impact - Stanford Business*
+  - [this video](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 ### Blockchain Terminology
 
@@ -25,20 +25,20 @@
 - **[Average  block time](https://youtu.be/bBC-nXj3Ng4?t=1317)** - expected for a new block to be mined
 
 ### Workflow
-  - Someone requests a
+  1. Someone requests a
 transaction.
-  - The transaction is
+  2. The transaction is
 broadcast to a
 P2P network.
-  - The network uses known
+  3. The network uses known
 algorithms to validate
 the transaction.
-  - [Once verified, the
+  4. [Once verified, the
 transaction is
 bundled with other
 transactions, creating
 a new block of data.](https://youtu.be/bBC-nXj3Ng4?t=1396)
-  - Completed blocks are
+  5. Completed blocks are
 linked to each other in the
 order they’re completed,
 forming a blockchain.
@@ -54,7 +54,7 @@ verify that a transaction is true
 
 ### Roots of Potential
 - **Transparency** - anyone can see transaction history
- - e.g. potential impact: money can be tracked in areas like aid distribution
+  - e.g. potential impact: money can be tracked in areas like aid distribution
 - **Immutability** - no tampering
   - e.g. potential impact: voter authentication and land title registration
 - **Reduced counterparty risk** - eliminates intermediary, leading to lower cost
