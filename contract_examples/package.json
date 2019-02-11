@@ -1,0 +1,29 @@
+{
+  "name": "contract_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.17.5",
+    "create-react-class": "^15.6.3",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "web3": "github:ethereum/web3.js"
+  }
+}
