@@ -16,5 +16,5 @@ npm install <dependecy> --save
 
 To run the front-end:
 ```
-node js/server.js
+npm start
 ```
